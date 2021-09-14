@@ -1,59 +1,44 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+[](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
 
-> One paragraph statement about the project.
+> Hello Microverse!
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This is my Hello Microverse! repository.
+
+## Requirements
+
+- Nodejs
+
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Nodejs
+- NPM
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
+To create a copy of this project, download it using github desktop or download as zip. To continue work on this project, fork the repository and create a local clone of your fork.
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
+Once downloaded on your local machine cd into the root folder using a terminal and run: node index.html
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Timowest12)
+- Twitter: [@twitterhandle](https://twitter.com/Timo61060367)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/timo-wester-6a0282a7/)
 
 ## 🤝 Contributing
 
@@ -64,12 +49,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
