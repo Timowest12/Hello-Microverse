@@ -8,6 +8,11 @@
 
 This is my Hello Microverse! repository.
 
+## Requirements
+
+- Nodejs
+
+
 ## Built With
 
 - HTML
