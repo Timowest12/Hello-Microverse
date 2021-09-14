@@ -21,7 +21,7 @@ This is my Hello Microverse! repository.
 
 ## Getting Started
 
-To create a copy of this project, download it using github desktop or download as zip. To work further on this project, fork the repository and create a local clone of your fork.
+To create a copy of this project, download it using github desktop or download as zip. To continue work on this project, fork the repository and create a local clone of your fork.
 
 ### Usage
 
